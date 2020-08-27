@@ -13,7 +13,8 @@ body {background-image:url(../img/i4.jpg)
 #Cabecera ul li{
 display:inline-block;	
 }
-
+#Pagina{Margin:45px;
+}
 #Cabecera ul li a{
 color:#000
 display:block;

@@ -3,6 +3,10 @@ body {background-image:url(../img/i4.jpg)
 
 }
 
+
+
+#Pagina{Margin:45px;
+}
 #Cabecera{background-color:#88CFD5;
 
 }
@@ -21,6 +25,7 @@ display:block;
 padding:5px 50px;
 text-decoration: none;
 Font-size:30px;
+
 
 }
 
